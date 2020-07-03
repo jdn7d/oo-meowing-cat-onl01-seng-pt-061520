@@ -4,4 +4,3 @@ class Cat
 
 
 end
-end
